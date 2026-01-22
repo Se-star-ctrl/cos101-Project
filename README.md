@@ -1,3 +1,3 @@
 # cos101-project
--Seyi-Project lead
+-Seyi-Project lead- language handled: french
 
